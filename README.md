@@ -1,8 +1,5 @@
-<div align="center">
 
 # Hi, I'm Kristine Ann ♡
-
-2nd Year BS Computer Science student from the Philippines.
 
 </div>
 
