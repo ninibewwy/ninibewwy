@@ -42,7 +42,10 @@
 
 ---
 
-I'm still learning, making mistakes, and building projects one step at a time.
+> *Carpe diem.*
+
+Still figuring things out, and that's okay.
+
 Thanks for stopping by!
 
 <div align="center">
