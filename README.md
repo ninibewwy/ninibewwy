@@ -42,11 +42,11 @@
 
 ---
 
-> *Carpe diem.*
-
 Still figuring things out, and that's okay.
 
 Thanks for stopping by!
+
+> *Carpe diem.*
 
 <div align="center">
 
