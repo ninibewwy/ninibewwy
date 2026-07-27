@@ -1,16 +1,68 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ninibewwy/ninibewwy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# hi, i'm Kristine Ann ♡
 
-Here are some ideas to get you started:
+2nd Year BS Computer Science student from the Philippines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+currently learning one line of code at a time.
+
+</div>
+
+---
+
+### 🌱 about me
+
+```txt
+> rookie programmer
+> always learning
+> turning curiosity into projects
+```
+
+- ♡ You can call me **Nini**
+- 🎓 2nd Year **BS Computer Science** student
+- 📍 Batangas State University, Philippines
+- 🌷 Still a beginner, but always excited to learn something new
+- 💻 Currently focusing on **JavaScript**, **HTML**, and **CSS**
+- 🐍 Have basic knowledge of **Python** and **C++**
+
+---
+
+### ✿ currently learning
+
+- JavaScript
+- HTML
+- CSS
+- Git & GitHub
+- Building small projects
+
+---
+
+### ♡ tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,cpp,git,vscode&theme=light" />
+</p>
+
+---
+
+### ☁ fun facts
+
+- 🐈 Cat person
+- 🎵 Music is always playing in the background
+- 🧋 Certified milk tea enjoyer
+- 🤍 I genuinely enjoy meeting new people
+
+---
+
+### ✨ little reminder
+
+> *"Every expert was once a beginner."*
+
+I'm still learning, making mistakes, and building projects one step at a time.
+Thanks for stopping by!
+
+<div align="center">
+
+♡ Happy Coding ♡
+
+</div>
