@@ -15,8 +15,8 @@
 
 - ♡ 2nd Year **BS Computer Science** student at Batangas State University, Philippines
 - ♡ Still a beginner, but always excited to learn something new
-- ♡ Currently focusing on **JavaScript**, **HTML**, and **CSS**
-- ♡ Have basic knowledge of **Python** and **C++**
+- ♡ Currently exploring **Web Development** *:)*
+
 
 ---
 
