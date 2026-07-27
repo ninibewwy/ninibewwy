@@ -17,11 +17,11 @@
 ```
 
 - ♡ You can call me **nini**
-- 🎓 2nd Year **BS Computer Science** student
-- 📍 Batangas State University, Philippines
-- 🌷 Still a beginner, but always excited to learn something new
-- 💻 Currently focusing on **JavaScript**, **HTML**, and **CSS**
-- 🐍 Have basic knowledge of **Python** and **C++**
+- ♡ 2nd Year **BS Computer Science** student
+- ♡ Batangas State University, Philippines
+- ♡ Still a beginner, but always excited to learn something new
+- ♡ Currently focusing on **JavaScript**, **HTML**, and **CSS**
+- ♡ Have basic knowledge of **Python** and **C++**
 
 ---
 
