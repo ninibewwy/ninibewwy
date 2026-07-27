@@ -1,5 +1,5 @@
 
-# Hi, I'm Kristine Ann ♡
+# Hi, I'm Kristine Ann <img src="strawberry.png" width="35">
 
 </div>
 
