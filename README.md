@@ -1,5 +1,5 @@
 
-# Hi, I'm Kristine Ann <img src="strawberry.png" width="50" align="bottom">
+# Hi, I'm Kristine Ann <img src="strawberry.png" width="50" style="vertical-align: -8px;">
 
 </div>
 
