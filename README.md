@@ -39,8 +39,8 @@ currently learning one line of code at a time.
 
 ### ♡ tech stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,cpp,git,vscode&theme=light" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ---
