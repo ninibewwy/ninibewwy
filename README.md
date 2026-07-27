@@ -16,7 +16,7 @@
 > always learning
 ```
 
-- ♡ You can call me **nini**
+- ♡ You can call me **NINI**
 - ♡ 2nd Year **BS Computer Science** student
 - ♡ Batangas State University, Philippines
 - ♡ Still a beginner, but always excited to learn something new
