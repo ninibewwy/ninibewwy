@@ -1,10 +1,8 @@
 <div align="center">
 
-# hi, i'm Kristine Ann ♡
+# Hi, I'm Kristine Ann ♡
 
 2nd Year BS Computer Science student from the Philippines.
-
-currently learning one line of code at a time.
 
 </div>
 
@@ -13,27 +11,17 @@ currently learning one line of code at a time.
 ### 🌱 about me
 
 ```txt
-> rookie programmer
+> she/her
+> aspiring developer
 > always learning
-> turning curiosity into projects
 ```
 
-- ♡ You can call me **Nini**
+- ♡ You can call me **nini**
 - 🎓 2nd Year **BS Computer Science** student
 - 📍 Batangas State University, Philippines
 - 🌷 Still a beginner, but always excited to learn something new
 - 💻 Currently focusing on **JavaScript**, **HTML**, and **CSS**
 - 🐍 Have basic knowledge of **Python** and **C++**
-
----
-
-### ✿ currently learning
-
-- JavaScript
-- HTML
-- CSS
-- Git & GitHub
-- Building small projects
 
 ---
 
@@ -47,22 +35,18 @@ currently learning one line of code at a time.
 
 ### ☁ fun facts
 
-- 🐈 Cat person
-- 🎵 Music is always playing in the background
-- 🧋 Certified milk tea enjoyer
-- 🤍 I genuinely enjoy meeting new people
+- 🐈 cat person
+- 🎧 music, no matter the genre
+- 🧋 certified milk tea enjoyer
+- 🤍 i genuinely enjoy meeting new people
 
 ---
-
-### ✨ little reminder
-
-> *"Every expert was once a beginner."*
 
 I'm still learning, making mistakes, and building projects one step at a time.
 Thanks for stopping by!
 
 <div align="center">
 
-♡ Happy Coding ♡
+♡ see you around ! ♡
 
 </div>
