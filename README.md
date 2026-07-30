@@ -13,7 +13,7 @@
 > always learning
 ```
 
-- ♡ 2nd Year **BS Computer Science** student at Batangas State University, Philippines
+- ♡ 2nd Year **BS Computer Science** student at **Batangas State University, Philippines**
 - ♡ Still a beginner, but always excited to learn something new
 - ♡ Currently exploring **Web Development** *:)*
 
