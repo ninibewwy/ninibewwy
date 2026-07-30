@@ -31,7 +31,7 @@
 ### ☁ fun facts
 
 - 🐈 cat person
-- 🎧 music, no matter the genre
+- 🎧 i super luv listening to music
 - 🧋 certified milk tea enjoyer
 - 🤍 i genuinely enjoy meeting new people
 
